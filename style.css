@@ -1,0 +1,40 @@
+body {
+   background-color: black;
+}
+
+h1 {
+   color: yellowgreen;
+   font: 3rem;
+}
+
+header {
+   text-align: center;
+   color: whitesmoke;
+   text-transform: uppercase;
+}
+
+.title {
+   margin-bottom: 100px;
+   font-size: 2rem;
+}
+
+.poster {
+   width: 50%;
+   margin-left: 25%;
+   margin-top: 100px;
+   color: wheat;
+   font-family: "Alata", sans-serif;
+
+}
+
+.image {
+   border: 5px solid white;
+   width: 100%;
+}
+
+.endline {
+   margin-top: 50px;
+   margin-bottom: 100px;
+   font-size: 25px;
+   color: white;
+}
